@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    text-align: center;
+    padding-top: 30px;
+    vertical-align: middle;
+}
+
+h1{
+    color: bisque;
+    font-size: 45px;
+    font-family: monospace;
+}
